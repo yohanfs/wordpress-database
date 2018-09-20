@@ -12,6 +12,7 @@ https://yohanfajarsidik.wordpress.com
 1. Komponen
 2. Topologi
 3. Pemodelan
+    * [Klasifikasi pemodelan](https://github.com/yohanfs/wordpress-database/blob/master/power-electronics-pemodelan)
 4. Kendali
 5. Aplikasi Elektronika Daya
 
